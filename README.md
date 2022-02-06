@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+Hello, my name is Ari Nurcahya and you can call me Ari. I'm a software engineer who is passionate about Backend Technologies
+
+### Current Role
+Backend Engineer at <b>Evermos</b>
+
+### Reach Me:
+
+[LinkedIn](https://www.linkedin.com/in/nurcahyaari/)
+
 <!--
 **nurcahyaari/nurcahyaari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
