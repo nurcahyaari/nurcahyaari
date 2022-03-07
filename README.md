@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello, my name is Ari Nurcahya and you can call me Ari. I'm a software engineer who is passionate about Backend Technologies
+Hello, my name is Ari Nurcahya and you can call me Ari. I'm a software engineer who passionate about Backend Technologies
 
 ### Current Role
 Backend Engineer at <b>Evermos</b>
