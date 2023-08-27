@@ -5,6 +5,9 @@ Hello, my name is Ari Nurcahya and you can call me Ari. I'm a software engineer 
 ### Current Role
 Backend Engineer at <b>Evermos</b>
 
+### My Medium
+[Medium]([https://www.linkedin.com/in/nurcahyaari/](https://nurcahyaari.medium.com/))
+
 ### Reach Me:
 
 [LinkedIn](https://www.linkedin.com/in/nurcahyaari/)
