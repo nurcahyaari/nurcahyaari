@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-Hello, my name is Ari Nurcahya and you can call me Ari. I'm a software engineer who passionate about Backend Technologies
+Hello, my name is Ari Nurcahya, and you can call me Ari. I'm a software engineer who is passionate about Backend Technologies
 
-### Current Role
-Backend Engineer at <b>Evermos</b>
+#### 💼 Current Role
+Software Engineer at Woven by Toyota
 
-### My Medium
-[Medium](https://nurcahyaari.medium.com/)
+#### 🚀 Building
+[Raklane](https://github.com/Raklane-Cloud) - a Platform as a Service for deploying and managing applications
 
-### Reach Me:
+#### ⚙️ Stack
+Go, Kubernetes, Event-Driven Backend Architecture, Microservices
 
-[LinkedIn](https://www.linkedin.com/in/nurcahyaari/)
+#### 💬 Connect
+[Medium](https://nurcahyaari.medium.com/) | [LinkedIn](https://www.linkedin.com/in/nurcahyaari/)
 
 <!--
 **nurcahyaari/nurcahyaari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
