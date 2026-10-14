@@ -5,9 +5,6 @@ Hello, my name is Ari Nurcahya, and you can call me Ari. I'm a software engineer
 #### 💼 Current Role
 Software Engineer at Woven by Toyota
 
-#### 🚀 Building
-[Raklane](https://github.com/Raklane-Cloud) - a Platform as a Service for deploying and managing applications
-
 #### ⚙️ Stack
 Go, Kubernetes, Event-Driven Backend Architecture, Microservices
 
